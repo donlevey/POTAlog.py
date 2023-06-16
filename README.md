@@ -36,9 +36,8 @@ In fact, completing this project according to the specified instructions present
 
 ### Intro, and setup in Main():
 
-```
 The global portion of the program is very small:
-
+```
 # Written in PyCharm on Fedora Linux
 
 from datetime import datetime
