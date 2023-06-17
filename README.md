@@ -1,5 +1,5 @@
 # POTA Logger
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/8nu-H9G1lxc
 #### github: https://github.com/donlevey/POTAlog.py
 #### Description: A lightweight, simple Ham Radio Logger for POTA activations
 
